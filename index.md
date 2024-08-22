@@ -15,4 +15,4 @@ Jeddah, Saudi Arabia
 This course will cover the following topics:  
 
 - [Introduction](slides/lecture_1.html)
-- 
+- [Geoscinecs, and the origin of the earth and the solar system](slides/lecture_2.html)
