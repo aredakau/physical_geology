@@ -18,3 +18,5 @@ This course will cover the following topics:
 - [Geoscinecs, and the origin of the earth and the solar system](slides/lecture_2.html)
 - [Composition of the earth](slides/lecture_3.html)
 - [Minerals and the rocks](slides/lecture_4.html)
+- [The internal structure of crystals](slides/lecture_5.html)
+- [External structure of crystals (1)](slides/lecture_6.html)
