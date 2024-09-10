@@ -20,3 +20,4 @@ This course will cover the following topics:
 - [Minerals and the rocks](slides/lecture_4.html)
 - [The internal structure of crystals](slides/lecture_5.html)
 - [External structure of crystals](slides/lecture_6.html)
+- [Introduction to Crystallography - practical](slides/practical_1.html)
