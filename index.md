@@ -22,3 +22,4 @@ This course will cover the following topics:
 - [External structure of crystals](slides/lecture_6.html)
 - [Introduction to Crystallography - practical](slides/practical_1.html)
 - [Physical Properties of Minerals](slides/lecture_7.html)
+- [Mineral Formation](slides/lecture_8.html)
