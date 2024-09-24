@@ -24,3 +24,4 @@ This course will cover the following topics:
 - [Physical Properties of Minerals](slides/lecture_7.html)
 - [Mineral Formation](slides/lecture_8.html)
 - [Geological Time Scale](slides/lecture_9.html)
+- [Minerals Identification and Classification](slides/lecture_10.html)
