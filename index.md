@@ -23,5 +23,6 @@ This course will cover the following topics:
 - [Introduction to Crystallography - practical](slides/practical_1.html)
 - [Physical Properties of Minerals](slides/lecture_7.html)
 - [Mineral Formation](slides/lecture_8.html)
-- [Geological Time Scale](slides/lecture_9.html)
 - [Minerals Identification and Classification](slides/lecture_10.html)
+- [Geological Time Scale](slides/lecture_9.html)
+- [Relative and Absolute Age Dating](slides/lecture_11.html)
