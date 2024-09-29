@@ -26,3 +26,4 @@ This course will cover the following topics:
 - [Minerals Identification and Classification](slides/lecture_10.html)
 - [Geological Time Scale](slides/lecture_9.html)
 - [Relative and Absolute Age Dating](slides/lecture_11.html)
+- [Igneous Rocks and Magma](slides/lecture_12.html)
