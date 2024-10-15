@@ -27,3 +27,4 @@ This course will cover the following topics:
 - [Geological Time Scale](slides/lecture_9.html)
 - [Relative and Absolute Age Dating](slides/lecture_11.html)
 - [Igneous Rocks and Magma](slides/lecture_12.html)
+- [Minerals (Practical session)](slides/practical_2.html)
