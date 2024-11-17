@@ -29,3 +29,4 @@ This course will cover the following topics:
 - [Minerals (Practical session)](slides/practical_2.html)
 - [Igneous Rocks and Magma](slides/lecture_12.html)
 - [Plate Tectonics](slides/lecture_13.html)
+- [Metamorphic Rocks](slides/lecture_14.html)
