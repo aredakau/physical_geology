@@ -30,3 +30,5 @@ This course will cover the following topics:
 - [Igneous Rocks and Magma](slides/lecture_12.html)
 - [Plate Tectonics](slides/lecture_13.html)
 - [Metamorphic Rocks](slides/lecture_14.html)
+- [Volcanism](slides/lecture_15.html)
+- [Earthquakes](slides/lecture_16.html)
