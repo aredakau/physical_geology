@@ -32,4 +32,4 @@ This course will cover the following topics:
 - [Metamorphic Rocks](slides/lecture_14.html)
 - [Volcanism](slides/lecture_15.html)
 - [Earthquakes](slides/lecture_16.html)
-- [Minerals(Practical session)](slides/practical_3.html)
+- [Rocks(Practical session)](slides/practical_3.html)
